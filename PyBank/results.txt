@@ -1,0 +1,5 @@
+There are 86 rows
+total profit is 22564198
+The total difference is -8311.105882352942
+The greatest increase amount and month is 1862002 in Aug-16
+The greatest decrease amount and month is -1825558 in Feb-14
